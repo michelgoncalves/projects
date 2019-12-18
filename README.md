@@ -6,7 +6,7 @@
 
 Desenvolvo análises e estudos que combinam data science, Python e fundamentos de marketing, com o objetivo propor a solução de problemas com sólida fundamentação em dados, por meio de uma linguagem clara, concisa e ilustrativa. 
 
-Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab, 
+Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab.
 
 
 
