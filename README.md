@@ -12,7 +12,7 @@ Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab
 
 ## Projetos de Data Science
 
-* **PROJETO 1:**  [Análise dos Dados do Airbnb - Ottawa](https://colab.research.google.com/drive/15ZH_zw-MOqzUEcnQyvkBF43Lyg7OjLBu)
+* **PROJETO 1:**  [Análise dos Dados do Airbnb - Ottawa](https://github.com/michelgoncalves/projects/blob/master/MAG_Analisando_os_Dados_do_Airbnb_OTTAWA.ipynb)
 
 * **PROJETO 2:** [Analisando a Violência no Rio de Janeiro](https://colab.research.google.com/drive/1eIWxcsyk_cIiemLUFVlqSOHkiQXmynib)
 
