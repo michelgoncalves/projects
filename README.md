@@ -14,7 +14,7 @@ Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab
 
 * **PROJETO 1:**  [Análise dos Dados do Airbnb - Ottawa](https://github.com/michelgoncalves/projects/blob/master/MAG_Analisando_os_Dados_do_Airbnb_OTTAWA.ipynb)
 
-* **PROJETO 2:** [Analisando a Violência no Rio de Janeiro](https://colab.research.google.com/drive/1eIWxcsyk_cIiemLUFVlqSOHkiQXmynib)
+* **PROJETO 2:** [Analisando a Violência no Rio de Janeiro](https://github.com/michelgoncalves/projects/blob/master/MAG_An%C3%A1lise_da_viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 
 
