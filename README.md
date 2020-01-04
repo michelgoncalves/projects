@@ -16,7 +16,7 @@ Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab
 
 * **PROJETO 2:** [Analisando a Violência no Rio de Janeiro](https://github.com/michelgoncalves/projects/blob/master/MAG_An%C3%A1lise_da_viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
-* **PROJETO 3:** [Análise Exploratória de Dados - Doenças Cardiovasculares](https://github.com/michelgoncalves/projects/blob/master/MAG_An%C3%A1lise_da_viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* **PROJETO 3:** [Análise Exploratória de Dados - Doenças Cardiovasculares](https://github.com/michelgoncalves/projects/blob/master/MAG_Doen%C3%A7as_Cardiovasculares.ipynb)
 
 
 ---
