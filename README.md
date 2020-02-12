@@ -18,7 +18,7 @@ Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab
 
 * **PROJETO 3:** [Análise Exploratória de Dados - Doenças Cardiovasculares](https://github.com/michelgoncalves/projects/blob/master/MAG_Doen%C3%A7as_Cardiovasculares.ipynb)
 
-* **PROJETO 4:** [Detecção de Fraude em Cartões de Crédito.ipynb](https://github.com/michelgoncalves/projects/blob/master/MAG_Projeto_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+* **PROJETO 4:** [Detecção de Fraude em Cartões de Crédito](https://github.com/michelgoncalves/projects/blob/master/MAG_Projeto_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 ---
 
