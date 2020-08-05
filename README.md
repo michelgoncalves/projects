@@ -18,7 +18,7 @@ Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab
 
 * **PROJETO 3:** [Análise Exploratória de Dados - Doenças Cardiovasculares](https://github.com/michelgoncalves/projects/blob/master/MAG_Doen%C3%A7as_Cardiovasculares.ipynb)
 
-* **PROJETO 4:** [Detecção de Fraude em Cartões de Crédito](https://github.com/michelgoncalves/projects/blob/master/MAG_Projeto_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+* **PROJETO 4:** [Detecção de Fraude em Cartões de Crédito](https://github.com/michelgoncalves/projects/blob/master/MAG_%5BRedo%5DDetec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 ---
 
@@ -26,7 +26,7 @@ Confira abaixo alguns de meus projetos desenvolvidos em Python, via Google Colab
 
 
 
-Sou Michel Antônio Gonçalves, profissional de Comunicação e Negócios Internacionais, com atuação em empresas privadas e órgãos públicos nas áreas de planejamento, criação e atendimento de clientes nacionais e internacionais. Meu foco é o desenvolvimento de soluções ao mercado global por meio da combinação de ferramentas de marketing e data science, deep learning e Python.
+Sou Michel Antônio Gonçalves, profissional de Comunicação e Negócios Internacionais, com atuação em empresas privadas e órgãos públicos nas áreas de planejamento, criação e atendimento de clientes nacionais e internacionais. Meu foco é o desenvolvimento de soluções ao mercado global por meio da combinação de ferramentas de marketing e data science, machine learning e Python.
 
 
 * Graduação em Comunicação Social pelo UNI-BH
